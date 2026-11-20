@@ -1,0 +1,2 @@
+# 2025-AQI-Weather-Data-Delhi-Analysis-using-Python-Pandas-NumPY-Matplotlib-seaborn-Project
+Delhi AQI &amp; Weather Analysis 2025  Analysed one year (2025) of hourly Delhi air quality and weather data (52,560 records, 6 stations) using Python, Pandas, NumPy and Matplotlib. Twelve visualisations reveal seasonal dust and winter smog peaks, daily patterns, and how rain, fog and temperature affect AQI and PM2.5. 
